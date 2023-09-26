@@ -10,7 +10,7 @@ function App() {
           This is sample react App
         </p>
         <div>
-          <div>Inc Comp:</div>
+          <div>Increase Comp:</div>
           <div>
             <Increment></Increment>
           </div>
